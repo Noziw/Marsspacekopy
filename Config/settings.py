@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'Marsshop',
     'drf_yasg',
 ]
-
+# gut ga
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
